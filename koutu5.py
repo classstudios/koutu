@@ -1,3 +1,5 @@
+# 作者：教室工作室 
+# 可以用来做二次开发，但请署名源代码出处
 import os
 import cv2
 import sys
